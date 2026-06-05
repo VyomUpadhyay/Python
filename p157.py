@@ -1,0 +1,6 @@
+list1=[23,34,535,6,57,8,78,3,64,2,5]
+
+print(list1[0])
+print(list1[6])
+print(list1[3])
+print(list1[-5])
