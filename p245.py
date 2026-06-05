@@ -1,0 +1,6 @@
+t1 = (11, 22, 33, 44, 55)
+list = list(t1)
+add = int(input("Enter the number => "))
+list.insert(add)
+t1 = tuple(list)
+print(t1)

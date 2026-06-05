@@ -1,0 +1,5 @@
+t1 = (11, 22, 33, 44, 55)
+list = list(t1)
+max = max(list)
+min = min(list)
+print("The maximum from the tuple is ", max ," and the minimum from the tuple is ", min)

@@ -1,0 +1,6 @@
+tupleD=(11,22,33,44,55)
+list1=list(tupleD)
+value = int(input("Enter the value you want to delete -> "))
+list1.remove(value)
+tupleD =tuple(list1)
+print(tupleD)
