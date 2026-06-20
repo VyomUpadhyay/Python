@@ -1,0 +1,10 @@
+import turtle
+vyom=turtle.Turtle()
+vyom.forward(100)
+vyom.left(90)
+vyom.forward(100)
+vyom.left(90)
+vyom.forward(100)
+vyom.left(90)
+vyom.forward(100)
+turtle.done()
